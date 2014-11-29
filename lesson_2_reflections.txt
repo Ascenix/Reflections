@@ -1,0 +1,7 @@
+What happens when you initilize a repository ? Why do you need to do it ?
+
+Commit log created.  Tracing information is added to the filing system to track versions.
+
+How is the staging area different from the working directory and the repository ? What value do you think it offers ?
+
+It's a temporary viewing space. Not for permanent long-term storage.  It creates a workspace to organize the commits.
