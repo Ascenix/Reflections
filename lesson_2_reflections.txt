@@ -5,3 +5,15 @@ Commit log created.  Tracing information is added to the filing system to track 
 How is the staging area different from the working directory and the repository ? What value do you think it offers ?
 
 It's a temporary viewing space. Not for permanent long-term storage.  It creates a workspace to organize the commits.
+
+How can you use the staging area to make sure you have one commit per logical change ?
+
+You may keep the commit in the staging area until the next logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized ? How would branches help ?
+
+Working on multiple versions of a program or a device that may or may not be combined in the future. It's easy to switch between the modes and keep track of the changes within each branch.
+
+How do the diagrams help you visualize the branch structure ?
+
+Easy to see the un-reachable commits.
