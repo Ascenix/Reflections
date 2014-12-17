@@ -2,3 +2,9 @@ Why might you want to always pull changes manually rather than having git automa
 
 There might be changes that are comitted by other contributors and should not be included in the current version due to various reasons.
 
+Describe the differences between forks,clones and branches. When would you use one instead of another ?
+
+Fork to clone someone else's repository.
+clone to start making changes to that repository.
+Branch when making changes you are not sure you want to incorporate to the main program, or when collaborating changes that may need approval.
+
